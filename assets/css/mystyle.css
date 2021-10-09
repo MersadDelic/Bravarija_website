@@ -1,0 +1,32 @@
+.col-9{
+    border-right: 1px solid gray!important;
+
+
+}
+
+.col-3 {
+    padding-top: 10px;
+}
+
+i {
+   color: #2b757a;
+    font-size: 40px !important;
+}
+
+i:hover{
+    color: #1b1e21;
+}
+
+/*
+.row:hover {
+    background-color: #adb5bd;
+}
+*/
+
+.nav li a {
+    font-size: 18px !important;
+}
+
+.social li i {
+    font-size: 18px !important;
+}
